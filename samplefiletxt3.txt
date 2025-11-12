@@ -1,0 +1,8 @@
+this is sample file 3
+
+clear
+clear
+
+ls
+$$clear
+git clear
